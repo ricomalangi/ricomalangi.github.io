@@ -10798,7 +10798,9 @@ body {
 
 @media (max-width: 767.98px) {
   .students .heading {
+    margin-top: 36px;
     font-size: 28px;
+    margin-bottom: 36px;
   }
 }
 
@@ -11030,6 +11032,14 @@ body {
   font-size: 36px;
   text-align: center;
   margin-bottom: 80px;
+}
+
+@media (max-width: 767.98px) {
+  .information .information-heading h1 {
+    margin-top: 36px;
+    font-size: 28px;
+    margin-bottom: 36px;
+  }
 }
 
 .information .information-all .btn-information {
